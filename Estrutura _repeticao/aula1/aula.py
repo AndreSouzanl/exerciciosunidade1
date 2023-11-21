@@ -1,3 +1,5 @@
+# range(<inicio>, <fim>, <passo>)
+#for(<variavel> in <sequencia>)
 
 # i variavel de controle
 # inicio valor sera atribuido inicialmente a variavel

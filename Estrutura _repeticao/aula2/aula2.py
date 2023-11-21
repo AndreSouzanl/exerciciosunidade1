@@ -5,6 +5,8 @@
 #     print("Aguarde")
 #     i = i + 1
 
+
+
 soma = 0
 
 while soma <= 5:
