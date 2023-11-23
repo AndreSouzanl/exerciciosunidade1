@@ -1,0 +1,13 @@
+#NUMEROS NEGATIVOS EQUIVALE AO FINAL DA LISTA ATE O INICIO -1 -2 ETC..
+lista = [];
+
+for i in range(10):
+    print("Digite o elemento da posicao ", i)
+    dado =int(input())
+    lista.append(dado)
+
+print("lista preenchida: ") 
+
+for i in range(10):
+    print("O elemento da posicao", i, "é", lista[i])
+    
