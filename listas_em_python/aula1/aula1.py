@@ -19,3 +19,8 @@ lista[0] = 100
 lista[1] = 99
 
 print(lista)
+
+lista.reverse()
+print(lista)
+
+
