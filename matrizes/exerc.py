@@ -15,4 +15,4 @@ for i in range(3):
     
 for i in range(3):
     for j in range(3):
-        print("O elemento da linha", i, "coluna", j, "è:", matriz[i][j])
+        print(matriz[i][j], " ", end=" ")

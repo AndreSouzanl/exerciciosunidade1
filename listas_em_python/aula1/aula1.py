@@ -1,7 +1,10 @@
 
-lista = [10, 20, 30]
+lista = [10, 20, 30,]
 
 print("Listas originais: ", lista)
+
+count = lista.count(10)
+print("count:", count)
 
 #Adiciona um elemento no final da array
 lista.append(99)
